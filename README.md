@@ -1,13 +1,13 @@
 # cafeapi Library Exemple
 
 [![Maintainer](http://img.shields.io/badge/maintainer-@adventureandre-blue.svg?style=flat-square)](https://twitter.com/adventureandre)
-[![Source Code](http://img.shields.io/badge/source-adventureandre/Lib-blue.svg?style=flat-square)](https://github.com/robsonvleite/cafeapi)
-[![PHP from Packagist](https://img.shields.io/packagist/php-v/robsonvleite/cafeapi.svg?style=flat-square)](https://packagist.org/packages/robsonvleite/cafeapi)
-[![Latest Version](https://img.shields.io/github/release/robsonvleite/cafeapi.svg?style=flat-square)](https://github.com/adventureandre/Lib/releases)
+[![Source Code](http://img.shields.io/badge/source-adventureandre/cafeapi-blue.svg?style=flat-square)](https://github.com/adventureandre/cafeapi)
+[![PHP from Packagist](https://img.shields.io/packagist/php-v/adventureandre/cafeapi.svg?style=flat-square)](https://packagist.org/packages/adventureandre/cafeapi)
+[![Latest Version](https://img.shields.io/github/release/adventureandre/cafeapi.svg?style=flat-square)](https://github.com/adventureandre/cafeapi/releases)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
 [![Build](https://img.shields.io/scrutinizer/build/g/robsonvleite/cafeapi.svg?style=flat-square)](https://scrutinizer-ci.com/g/adventureandre/Lib)
-[![Quality Score](https://img.shields.io/scrutinizer/g/robsonvleite/cafeapi.svg?style=flat-square)](https://scrutinizer-ci.com/g/adventureandre/Lib)
-[![Total Downloads](https://img.shields.io/packagist/dt/adventureandre/Lib.svg?style=flat-square)](https://packagist.org/packages/)
+[![Quality Score](https://img.shields.io/scrutinizer/g/adventureandre/cafeapi.svg?style=flat-square)](https://scrutinizer-ci.com/g/adventureandre/Lib)
+[![Total Downloads](https://img.shields.io/packagist/dt/adventureandre/cafeapi.svg?style=flat-square)](https://packagist.org/packages/)
 
 ###### Adventureandre Library is a small set of classes developed in UpInside's Full Stack PHP Developer training for integration into the webservice of a SaaS platform developed in the course..
 
